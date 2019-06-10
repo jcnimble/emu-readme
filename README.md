@@ -46,14 +46,14 @@ This app was built using React JS and MongoDB for database management:
 ### Development Issues
   * Calendar is not currently working -- will log mood color for each day
   * Additional creative expression
-    --  Use emojis to express feelings
-    --  Upload pictures to entry
+    - Use emojis to express feelings
+    - Upload pictures to entry
 
 ## Authors
   * Teamu
-    **  Ann MacMillan
-    **  Kira Williams
-    **  Jennifer Ginelli
+    - Ann MacMillan
+    - Kira Williams
+    - Jennifer Ginelli
 
 ## Acknowledgments
    * UPENN201903FSF4-FT/19-react/01-Activities/29-Stu_FriendRefactor/
