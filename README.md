@@ -37,10 +37,21 @@ This app was built using React JS and MongoDB for database management:
 ## Overview
 
 ### Sign-Up/Login
+
+Users provide username, email and password to create account. This information is storedin database.
 ![](signup.png)
+
 ### Entry Page
+
+A New Entry consists of a general mood descriptor, diary content, tag words and color label.
 ![](newentry.png)
+
+The mood color is attached to the background color of the Entry. All of this information is saved to the database. A "mini-history" allows users to see a brief summary of past entries in the sidebar. Clicking on one of these directs to a more comprehensive past history.
+![](saventry3.png)
+
 ### Past Entries Page
+
+The Past Entries page gives a full summary of all posts and their content. From here, a user can update or delete an Entry.
 ![](pastentry.png)
 
 ### Development Issues
