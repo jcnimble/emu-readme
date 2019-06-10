@@ -47,7 +47,7 @@ A New Entry consists of a general mood descriptor, diary content, tag words and 
 ![](newentry.png)
 
 The mood color is attached to the background color of the Entry. All of this information is saved to the database. A "mini-history" allows users to see a brief summary of past entries in the sidebar. Clicking on one of these directs to a more comprehensive past history.
-![](saventry3.png)
+![](savenetrty3.png)
 
 ### Past Entries Page
 
@@ -67,7 +67,7 @@ The Past Entries page gives a full summary of all posts and their content. From 
     - Jennifer Ginelli
 
 ## Acknowledgments
-   * UPENN201903FSF4-FT/19-react/01-Activities/29-Stu_FriendRefactor/
+   * UPENN201903FSF4-FT/20-react/02-Homework/Google-Book-Search
    * Bryan esteemed Professor
    * Buzz and Aaron dedicated TAs
 
