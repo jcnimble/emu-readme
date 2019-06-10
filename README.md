@@ -8,7 +8,7 @@ Emu (Emotional mood understanding) is a micro-logging site that focuses on moods
 
 * Daily entries are kept in a database associated with the User Id. They can be accessed on a past entries page. From this page, entries can be updated and deleted.
 
-![]()
+![](login.png)
 
 Check it out on Heroku: https://emu-journal.herokuapp.com
 
@@ -37,11 +37,11 @@ This app was built using React JS and MongoDB for database management:
 ## Overview
 
 ### Sign-Up/Login
-![]()
+![](signup.png)
 ### Entry Page
-![]()
+![](newentry.png)
 ### Past Entries Page
-![]()
+![](pastentry.png)
 
 ### Development Issues
   * Calendar is not currently working -- will log mood color for each day
