@@ -8,14 +8,13 @@ Emu (Emotional mood understanding) is a micro-logging site that focuses on moods
 
 * Daily entries are kept in a database associated with the User Id. They can be accessed on a past entries page. From this page, entries can be updated and deleted.
 
+![]()
 
-
-
-Check it out on Heroku: https://warm-journey-73403.herokuapp.com/
+Check it out on Heroku: https://emu-journal.herokuapp.com
 
 ## Getting Started
 
-This app requires the MySQL, Express, Handlebars and npm packages :
+This app was built using React JS and MongoDB for database management:
 
     "@simonwep/pickr": "^0.6.2",
     "axios": "^0.19.0",
@@ -35,23 +34,29 @@ This app requires the MySQL, Express, Handlebars and npm packages :
     "react-typing-animation": "^1.6.2",
     "reactstrap": "^8.0.0"
 
-   * [Mysql](https://www.npmjs.com/package/mysql)
+## Overview
 
-   * [Express](https://www.npmjs.com/package/express)
+### Sign-Up/Login
+![]()
+### Entry Page
+![]()
+### Past Entries Page
+![]()
 
-   * [Handlebars](https://www.npmjs.com/package/handlebars)
-
-   * [dotenv](https://www.npmjs.com/package/dotenv)
-   
-   * [seqeulize](https://www.npmjs.com/package/sequelize)
-      
-
-Check it out on Heroku: https://warm-journey-73403.herokuapp.com/
-
-
-
+### Development Issues
+  * Calendar is not currently working -- will log mood color for each day
+  * Additional creative expression
+    --  Use emojis to express feelings
+    --  Upload pictures to entry
 
 ## Authors
+  * Teamu
+    **  Ann MacMillan
+    **  Kira Williams
+    **  Jennifer Ginelli
 
-* Teamu
+## Acknowledgments
+   * UPENN201903FSF4-FT/19-react/01-Activities/29-Stu_FriendRefactor/
+   * Bryan esteemed Professor
+   * Buzz and Aaron dedicated TAs
 
